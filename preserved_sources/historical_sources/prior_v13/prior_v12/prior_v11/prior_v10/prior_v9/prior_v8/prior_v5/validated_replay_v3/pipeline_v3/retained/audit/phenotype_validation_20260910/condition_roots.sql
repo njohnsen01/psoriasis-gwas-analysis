@@ -1,0 +1,1 @@
+SELECT concept_id,concept_name,domain_id,vocabulary_id,concept_code,standard_concept,invalid_reason FROM `wb-silky-artichoke-2408.C2024Q3R8.concept` WHERE concept_id IN (140168,36715780,37205056,37205057,4031141,4031142,4031649,4063433,4223485,81931,40319772,4083682,46274123) ORDER BY concept_id
